@@ -1,5 +1,3 @@
-$ lai Rs ma change garnu price ma
-product image halnu or update fgarnu
-
-
-
+1. php start.php
+2. Starting  on http://localhost:8000
+3. Admin/User: http://localhost:8000/login.php email: admin@pinkhome.com psw: password 
